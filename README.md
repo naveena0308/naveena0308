@@ -2,12 +2,13 @@
 
 # Hey, I'm Naveena 👋
 
-### Data Scientist · LLM Systems · Document Intelligence
+### Data Scientist · AI Engineer · Prompt Whisperer · Multimodal Intelligence · Model Training
 
-*Building production-grade AI that actually ships.*
+*I fine-tune models, ship pipelines, and ask 'but who built this?' a little too often.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsmenaveenanatarajan)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/naveena0308)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@naveenanatarajan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:navirajan2003@gmail.com)
 [![Location](https://img.shields.io/badge/Bangalore%2C%20India-4285F4?style=flat&logo=googlemaps&logoColor=white)](#)
 
@@ -99,7 +100,22 @@ I care deeply about systems that don't just *look* intelligent but actually *per
 - 📊 Production observability with **LangSmith** and **LangFuse**
 
 ---
-
+ 
+## Writing ❤️
+ 
+Before I was an engineer, I was a writer. Writing has always been how I make sense of the world, and lately, I've started doing it in public.
+ 
+I write about the *why* behind the things we use every day, the people, the ideas, and the accidents of history that shaped the tools we now take for granted. Just getting started, but there's a lot more coming.
+ 
+> *"The best engineers aren't just builders - they're storytellers."*
+ 
+| Post | What it's about |
+|---|---|
+| [You use Python every day, but who built Python — and what built the builder?](https://what-built-the-builder.hashnode.dev/you-use-python-every-day-but-who-built-python-and-what-built-the-builder) | The human story behind the language millions of us write in daily |
+ 
+📖 Follow along → **[what-built-the-builder.hashnode.dev](https://what-built-the-builder.hashnode.dev)**
+ 
+---
 <div align="center">
 
 *"Accuracy in research. Reliability in production. Curiosity in everything else."*
