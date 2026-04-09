@@ -2,7 +2,7 @@
 
 # Hey, I'm Naveena 👋
 
-### AI Engineer · LLM Systems · Document Intelligence
+### Data Scientist · LLM Systems · Document Intelligence
 
 *Building production-grade AI that actually ships.*
 
@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm an AI Engineer at **MResult Technologies**, Bangalore, where I build LLM-powered document intelligence pipelines for the pharmaceutical industry. My work spans the full stack of AI development — from fine-tuning models and designing agentic workflows to shipping FastAPI backends into production.
+I'm an Associate (Data Science) at **MResult Technologies**, Bangalore, where I build LLM-powered document intelligence pipelines for the pharmaceutical industry. My work spans the full stack of AI development — from fine-tuning models and designing agentic workflows to shipping FastAPI backends into production.
 
 I care deeply about systems that don't just *look* intelligent but actually *perform* under real-world constraints — low latency, high accuracy, production-ready.
 
