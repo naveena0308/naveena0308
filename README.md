@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm an Associate (Data Science) at **MResult Technologies**, Bangalore, where I build LLM-powered document intelligence pipelines for the pharmaceutical industry. My work spans the full stack of AI development — from fine-tuning models and designing agentic workflows to shipping FastAPI backends into production.
+I'm an Associate (Data Science) at **MResult Technologies**, Bangalore, where I build LLM-powered document intelligence pipelines for the pharmaceutical industry. My work spans the full stack of AI development - from fine-tuning models and designing agentic workflows to shipping FastAPI backends into production.
 
 I care deeply about systems that don't just *look* intelligent but actually *perform* under real-world constraints — low latency, high accuracy, production-ready.
 
@@ -30,34 +30,97 @@ I care deeply about systems that don't just *look* intelligent but actually *per
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-**Core AI/ML**
+## Core AI/ML
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+<div align="center">
 
-**LLM & Agentic AI**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat)
-![LangFuse](https://img.shields.io/badge/LangFuse-000000?style=flat)
+</div>
 
-**Computer Vision**
+- **Languages:** Python 
+- **ML Frameworks:** PyTorch, TensorFlow
+- **Data Processing:** Pandas, NumPy, Scikit-Learn
+- **Core Algorithms:** Random Forest, Logistic Regression, Ensemble Methods, Classification
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logoColor=black)
-![EfficientNet](https://img.shields.io/badge/EfficientNet-FF6F00?style=flat)
+---
 
-**Data & Backend**
+## LLM & Agentic AI
 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+- **LLM Application Development:** Multi-Agent Orchestration, Prompt Engineering
+- **Advanced Features:** Structured Information Extraction, Agentic AI Systems
+- **Explainable AI (XAI):** Decision Narratives, System Audit Trails, Model Transparency
+
+---
+
+## Computer Vision
+
+<div align="center">
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
+![EfficientNet](https://img.shields.io/badge/EfficientNet-FF6F00?style=for-the-badge&logoColor=white)
+
+</div>
+
+- **Detection & Classification:** YOLO, EfficientNet
+- **Image Processing:** OpenCV
+
+---
+
+## MLOps & LLMOps
+
+<div align="center">
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+</div>
+
+- **Experiment Tracking:** MLflow (Parameters, Metrics, Artifacts)
+- **Model Management:** MLflow Model Registry, Versioning, Model Persistence
+- **Pipeline Design:** Modular ML Pipelines, Reproducible Workflows
+- **Productization:** REST API Integration, Enterprise Workflow Automation
+
+---
+
+## Data & Backend
+
+<div align="center">
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white)
+
+</div>
+
+- **Backend Framework:** FastAPI, Flask
+- **Data Warehousing:** Snowflake, SQL
+- **Vector Storage:** ChromaDB
+- **Integration Systems:** Automated Email Watchers, Folder Ingestion, File/Document Parsing
+- **Architecture:** Asynchronous Processing, Background Task Ingestion
+
+---
+
+## Full-Stack AI Engineering
+
+- **System Design:** End-to-End AI Systems, Scalable ML APIs
+- **Deployment:** Production-Grade ML Systems, Workflow Automation
+- **Best Practices:** Reproducibility, Monitoring, Explainability
 
 ## 🚀 Experience Highlights
 
