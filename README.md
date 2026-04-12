@@ -22,11 +22,11 @@ I'm an Associate (Data Science) at **MResult Technologies**, Bangalore, where I 
 
 I care deeply about systems that don't just *look* intelligent but actually *perform* under real-world constraints — low latency, high accuracy, production-ready.
 
-- 🔭 Currently building **document extraction & classification pipelines** for pharma clients using LLMs + Snowflake
-- 🧠 Researching **hyperparameter optimization** to push LLM deployment performance further
-- 🎓 Pursuing a **BS in Data Science** from IIT Madras alongside my B.Tech in AI & DS
-- 💬 Ask me about **RAG pipelines, LLM fine-tuning, agentic AI, or document intelligence**
-- 📬 Reach me at **navirajan2003@gmail.com**
+- 🔭 Currently working on **AI/ML-powered document extraction and classification pipelines** for pharmaceutical data, with Snowflake in the stack  
+- 🧠 Recently started exploring **Computer Vision**, shifting focus from text-heavy systems to working with visual data  
+- 🎓 Completed a **B.Tech in AI & Data Science**, currently adding a **BS in Data Science from IIT Madras** to the mix 
+- 💬 Open to discussions on **document intelligence, production ML pipelines, MLOps, and multimodal (CV + NLP) systems**  
+- 📬 Reach out at **navirajan2003@gmail.com**
 
 ---
 
